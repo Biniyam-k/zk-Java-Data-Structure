@@ -6,7 +6,7 @@ Choosing the right data structure for a given problem is an important part of al
 
 ### 1 Data Structures
 
-[1 Arrays in Java](Data%20Structure%20Introduction%20406b14a70fd94997a6af622a6ce8b163/1%20Arrays%20in%20Java%201228845e1eda404a97d16911ac04713a.md)
+[1 Arrays in Java](Data%20Structure%20Introduction/1%20Arrays%20in%20Java.md)
 
 [2 List in Java](Data%20Structure%20Introduction%20406b14a70fd94997a6af622a6ce8b163/2%20List%20in%20Java%202ecb05b398e64aa5b9755233e491bec9.md)
 
